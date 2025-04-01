@@ -8,7 +8,7 @@ RAR password recovery tool
 
 ## Installation
 
-Download zip file on release and run .exe file
+Download the ZIP archive in the release, extract the contained files, and run the RARPassword.exe file.
 
 
 
